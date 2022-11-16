@@ -3,7 +3,7 @@
 tempdir="$(mktemp -d)"
 
 #filename
-morpheus="morpheus-appliance_5.4.2-2_amd64.deb"
+morpheus="morpheus-appliance_5.4.12-1_amd64.deb"
 
 #install open-vm-tools
 apt-get -y install open-vm-tools
